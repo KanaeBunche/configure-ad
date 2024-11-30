@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 1: Install Active Directory
 <p align="center">
-<img src="https://i.imgur.com/example1.gif" height="80%" width="80%" alt="Install Active Directory GIF"/>
+<img src="https://s6.ezgif.com/tmp/ezgif-6-e916928e1a.gif" height="80%" width="80%" alt="Install Active Directory GIF"/>
 </p>
 
 ---
