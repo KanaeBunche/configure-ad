@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 2: Create a Domain Admin User and Organizational Units (OUs)
 <p align="center">
-<img src="https://i.imgur.com/example2.gif" height="80%" width="80%" alt="Create Domain Admin and OUs GIF"/>
+<img src="https://s6.ezgif.com/tmp/ezgif-6-3939c42b4c.gif" height="80%" width="80%" alt="Create Domain Admin and OUs GIF"/>
 </p>
 
 ---
