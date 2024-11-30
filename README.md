@@ -53,7 +53,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 4: Create Additional Users and Verify Access
 <p align="center">
-<img src="https://i.imgur.com/example4.gif" height="80%" width="80%" alt="Create Additional Users GIF"/>
+<img src="https://s6.ezgif.com/tmp/ezgif-6-43a75e8ad4.gif" height="80%" width="80%" alt="Create Additional Users GIF"/>
 </p>
 
 ---
