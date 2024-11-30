@@ -46,7 +46,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ### Part 3: Join Client-1 to the Domain
 <p align="center">
-<img src="https://i.imgur.com/example3.gif" height="80%" width="80%" alt="Join Client-1 to the Domain GIF"/>
+<img src="https://s6.ezgif.com/tmp/ezgif-6-cfecd8c41a.gif" height="80%" width="80%" alt="Join Client-1 to the Domain GIF"/>
 </p>
 
 ---
