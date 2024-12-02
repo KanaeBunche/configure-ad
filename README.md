@@ -1,40 +1,32 @@
 ### Part 1: Install Active Directory
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dlEwCL-hk9M">
-    <img src="https://img.youtube.com/vi/dlEwCL-hk9M/0.jpg" alt="Install Active Directory and Promote to Domain Controller"/>
-  </a>
+  <a href="https://www.youtube.com/watch?v=dlEwCL-hk9M">Click here to watch the video on Installing Active Directory and Promoting to Domain Controller</a>
 </p>
-*Click the image or [here](https://www.youtube.com/watch?v=dlEwCL-hk9M) to watch a video explanation.*
+*Click the link to watch the video.*
 
 ---
 
 ### Part 2: Create a Domain Admin User and Organizational Units (OUs)
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">
-    <img src="https://img.youtube.com/vi/MLY4QmCw8rU/0.jpg" alt="Create a Domain Admin User and Organizational Units OUs"/>
-  </a>
+  <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">Click here to watch the video on Creating a Domain Admin User and Organizational Units (OUs)</a>
 </p>
-*Click the image or [here(https://www.youtube.com/watch?v=MLY4QmCw8rU)] to watch a video explanation.*
+*Click the link to watch the video.*
 
 ---
 
 ### Part 3: Join Client-1 to the Domain
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=0I8dOcsaoBM">
-    <img src="https://img.youtube.com/vi/0I8dOcsaoBM/0.jpg" alt="Join Client 1 to the Domain"/>
-  </a>
+  <a href="https://www.youtube.com/watch?v=0I8dOcsaoBM">Click here to watch the video on Joining Client-1 to the Domain</a>
 </p>
-*Click the image or [here](https://www.youtube.com/watch?v=0I8dOcsaoBM) to watch a video explanation.*
+*Click the link to watch the video.*
 
 ---
 
 ### Part 4: Create Additional Users and Verify Access
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">
-    <img src="https://img.youtube.com/vi/Rsxgx2KKQYY/0.jpg" alt="Create Additional Users and Verify Access"/>
-  </a>
+  <a href="https://www.youtube.com/watch?v=Rsxgx2KKQYY">Click here to watch the video on Creating Additional Users and Verifying Access</a>
 </p>
-*Click the image or [here](https://www.youtube.com/watch?v=Rsxgx2KKQYY) to watch a video explanation.*
+*Click the link to watch the video.*
 
 ---
 
