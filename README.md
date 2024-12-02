@@ -14,7 +14,10 @@
     <img src="https://img.youtube.com/vi/MLY4QmCw8rU/0.jpg" alt="Create a Domain Admin User and Organizational Units OUs"/>
   </a>
 </p>
-*Click the image or [here](https://www.youtube.com/watch?v=MLY4QmCw8rU) to watch a video explanation.*
+
+    <p>Click the image or <a href="https://www.youtube.com/watch?v=MLY4QmCw8rU">[here]</a>to watch a video explanation.</p>
+  
+**
 
 ---
 
