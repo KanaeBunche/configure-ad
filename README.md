@@ -4,7 +4,7 @@
     <img src="https://img.youtube.com/vi/dlEwCL-hk9M/0.jpg" alt="Install Active Directory and Promote to Domain Controller"/>
   </a>
 </p>
-Click the image or [here](https://www.youtube.com/watch?v=dlEwCL-hk9M) to watch a video demo.
+*Click the image or [here](https://www.youtube.com/watch?v=dlEwCL-hk9M) to watch a video explanation.*
 
 ---
 
@@ -16,7 +16,6 @@ Click the image or [here](https://www.youtube.com/watch?v=dlEwCL-hk9M) to watch 
 </p>
 *Click the image or [here](https://www.youtube.com/watch?v=MLY4QmCw8rU) to watch a video demo.*
   
-**
 
 ---
 
